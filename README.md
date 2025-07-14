@@ -1,6 +1,6 @@
 # RimWorld Czech
 Czech Translation of RimWorld (Core, Royalty, Ideology, Biotech, Anomaly and Odyssey)
- 
+
 **Table of Contents:**
 - [Translation Team](#czech-translation-team)
 - [Výpomoc s překladem](#výpomoc-s-překladem)
@@ -14,13 +14,12 @@ Czech Translation of RimWorld (Core, Royalty, Ideology, Biotech, Anomaly and Ody
 - Morticinus
 - LordFanger
 - DarkDragoniaFox
- 
+
 **Inactive:**
 - Galoth
 - Azarian
- 
-**Special thanks:** Leffi, Barbar, Aladalar
 
+**Special thanks:** Leffi, Barbar, Aladalar
 ---
 ### Výpomoc s překladem
 - pokud chcete vypomoci s překladem zkuste nás nejprve kontaktovat na [discordu](https://discord.gg/D8P5cvtyCb)
